@@ -8,7 +8,6 @@
 #include "ofxOsc.h"
 #include "ofxBaseGui.h"
 #include "ofxGui.h"
-#include "Window.hpp"
 #include "Particle.hpp"
 #include "ofxOscParameterSync.h"
 
