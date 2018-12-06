@@ -1,3 +1,3 @@
-Samply warping synth in C++ usng Openframeworks. 
+Sample warping synth in C++ usng Openframeworks. 
 
 Libraries: ofxMaximillian ofxPostSF
